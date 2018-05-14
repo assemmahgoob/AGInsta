@@ -1,5 +1,5 @@
 ﻿{"version_code":5,"content":"
-<p>تحديث 1.40</p>
+<p>تحديث 1.00</p>
 
 <li>التحديث لنسخة الماركت 37.0.0.21.97</li>
 <li>يمكنك الان إخفاء انك شاهدت القصص(الستوري) من الاضافات والخصائص ثم الخصوصية</li>
@@ -31,5 +31,5 @@
 <li> Fixed Recent Stories on Home Feed Tab</li>
 <li> Many More Fixes</li>
 
-","url":"http://www.gbmods.co/?p=1684"
+","url":"http://www.3ssem.com/2018/05/aginsta.html"
 }
