@@ -1,35 +1,31 @@
-﻿{"version_code":5,"content":"
-<p>تحديث 1.00</p>
+{"version_code":7,"content":"
 
-<li>التحديث لنسخة الماركت 37.0.0.21.97</li>
-<li>يمكنك الان إخفاء انك شاهدت القصص(الستوري) من الاضافات والخصائص ثم الخصوصية</li>
-<li>إضافة الخيار رقم 7.2 لتعطيل السحب يمين/ يسار في الواجهة الرئيسية</li>
-<li>إصلاح تكبير صور البروفايل</li>
-<li>يمكنك التعليق على اي منشور بشكل سريع</li>
-<li>يمكنك إلغاء متابعة اي حساب بدون فتح البروفايل من خلال الضغط على زر الثلاث نقاط بجانب المنشور ثم إلغاء متابعة</li>
-<li>إضافة الخيار رقم 4.2.3.10 لتغيير لون إضافة تعليق... في الواجهة الرئيسية</li>
-<li>إضافة الخيار رقم 4.2.3.11 لتغيير لون خلفية إضافة تعليق... في الواجهة الرئيسية</li>
-<li>إضافة الخيار رقم 4.2.3.12 لتغيير لون نشر تعليق... في الواجهة الرئيسية</li>
-<li>إصلاح ظهور خطأ عند تحميل اي ثيم من ثيمات البرنامج</li>
-<li>إصلاح ظهور خط ابيض في شاشة التعليقات</li>
-<li>إصلاح لون الثيم عند فتح اي منشور من شاشة التنبيهات</li>
-<li>إصلاح عدم تغيير لون ايقونة تبديل الحساب في شاشة البروفايل</li>
-<li>إصلاحات اخرى</li>
+<p>تحديث 1.10</p>
 
-<li> New Base Updated to 37.0.0.21.97</li>
-<li> Added Privacy - Hide View Status (GBSettings - Privacy) (Don't Show Your Name even If you View Someone's Story)</li> 
-<li> Added Option to Disable Slide Navigation (Mod 7.2)</li>
-<li> Added Add Comment from Home Screen</li>
-<li> Added Possibility to Follow/Unfollow without Open Profile (Click on 3 Dots of the Post and click Follow or Unfollow) </li>
-<li> Added Option to Color Add Comment in Home Screen (Mod 4.2.3.10)</li>
-<li> Added Option to Color Add Comment Background in Home Screen (Mod 4.2.3.11)</li>
-<li> Added Option to Color Post Comment Text in Home Screen (Mod 4.2.3.12)</li>
-<li> Fixed Profile Picture Zoom/Blur</li>
-<li> Fixed Error 150 when Downloading Themes</li>
-<li> Fixed White Line Showing on Comments Screen above Text Entry</li>
-<li> Fixed Theme Issue when Open Post from Notifications Tab</li>
-<li> Fixed Recent Stories on Home Feed Tab</li>
-<li> Many More Fixes</li>
+<li>التحديث لنسخة الماركت 49.0.0.15.89</li>
+
+<li>اصلاح مشكلة عدم تغير الثيمات واضافة ثيمات جديده</li>
+
+<li>إصلاح عدم فتح المحادثات وان البرنامج يحتاج تحديث</li>
+
+<li>يمكنك تمييز اي محادثة بنجمة</li>
+
+<li>يمكنك فرز المحادثات حسب توقيت الرسائل او حسب المحادثات المميزة بنجمة</li>
+
+<li>إصلاحات أخرى</li>
+
+<li> New Base Updated to 49.0.0.15.89</li>
+
+<li> Fix the problem of not changing themes and add new themes</li>
+
+<li> Fix not open conversations and that the program needs updating</li>
+
+<li> You can mark any conversation as a star</li>
+
+<li> Sort conversations by message timings or by starred conversations</li>
+
+<li> Many Other Fixes</li>
 
 ","url":"https://www.3ssem.com/2018/05/aginsta.html"
+
 }
