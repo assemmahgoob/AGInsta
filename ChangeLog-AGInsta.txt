@@ -1,6 +1,6 @@
-{"version_code":5,"content":"
+{"version_code":7,"content":"
 
-<p>تحديث 1.10</p>
+<p>تحديث 1.20 (Update)</p>
 
 <li>التحديث لنسخة الماركت 71.0.0.18.102</li>
 
@@ -28,18 +28,26 @@
 
 <li>إصلاحات أخرى</li>
 
-<li> New Base Updated to 49.0.0.15.89</li>
+<li> New Base Updated to 71.0.0.18.102</li>
 
-<li> Fix the problem of not changing themes and add new themes</li>
+<li> Added Support for IGTV</li>
 
-<li> Fix not open conversations and that the program needs updating</li>
+<li> Added Video Calls</li>
 
-<li> You can mark any conversation as a star</li>
+<li> You can make a chat favourite</li>
 
-<li> Sort conversations by message timings or by starred conversations</li>
+<li> Now can Add Voice Note in Story</li>
 
-<li> Many Other Fixes</li>
+<li> Now can Add Tag in Story</li>
 
-","url":"https://www.3ssem.com/2018/10/aginsta-110.html"
+<li> Fixed Bubble Color when Reply to Story</li>
+
+<li> Fixed Themes after Viewing Post in Search</li>
+
+<li> Fixed Crash when Click on Download/Preview</li>
+
+<li> Many More Fixes</li>
+
+","url":"https://www.3ssem.com/2019/04/aginstagram-1.20.html"
 
 }
