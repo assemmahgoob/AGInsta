@@ -1,53 +1,51 @@
-{"version_code":7,"content":"
+{"version_code":8,"content":"
 
-<p>تحديث 1.20 (Update)</p>
+<p>تحديث 1.30 (Update)</p>
 
-<li>التحديث لنسخة الماركت 71.0.0.18.102</li>
+<li>إخفاء قصص المشاهدة أو إخفاء حالة الكتابة في DM)</li>
 
-<li>يمكنك الاتصال صوت وصورة</li>
+<li>يمكنك حفظ مقاطع فيديو IGTV على وحدة تخزين جهاز Android</li>
 
-<li>يمكنك استخدام منصة IGTV للفيديوهات</li>
+<li>اضافة متصفح داخل التطبيق</li>
 
-<li>يمكنك طلب شارة التحقق الزرقاء لملف الشخصي</li>
+<li>يمكنك مشاهدة قائمة المتابعين ومراقبتهم</li>
 
-<li>يمكنك طرح الأسئلة في القصة(الستوري)</li>
+<li>اضافة قفل التطبيق عن طريق البصمة</li>
 
-<li>يمكنك عمل منشن أو تاق في القصة(الستوري)</li>
+<li>القدرة على إظهار (يتبعك) علامة يمكنك بسهولة معرفة من الذي يتبعك</li>
 
-<li>يمكنك إضافة مقطع موسيقي في القصة (الستوري)</li>
+<li>ترجمة التعليقات والوظائف إلى الإنجليزية والروسية والأوكرانية والتركية</li>
 
-<li>يمكنك تمييز المحادثات في قسم الخاص</li>
+<li>تمكين / تعطيل النقر المزدوج</li>
 
-<li>تفعيل ميزة حالة النشاط (آخر ظهور) لمعرفة تواجد الاصدقاء المتصلين في البرنامج</li>
+<li>إضافة ملصقات موسيقية إلى القصص</li>
 
-<li>إصلاح الانهيار عند محاولة تحميل صورة او فيديو</li>
-
-<li>إصلاح لون الفقاعات في المحادثة عند الرد على الستوري</li>
-
-<li>إصلاح بعض الالوان بعد الضغط على اي منشور في قسم البحث</li>
+<li>إصلاح مشاكل تسجيل الدخول عبر الفيسبوك واظهار اشعار بانه لايمكنك تسجيل الدخول</li>
 
 <li>إصلاحات أخرى</li>
 
-<li> New Base Updated to 71.0.0.18.102</li>
+<li> New Base Updated to 121.0.0.29.119</li>
 
-<li> Added Support for IGTV</li>
+<li> Hide Watch Stories or Hide Writing Status (DM)</li>
 
-<li> Added Video Calls</li>
+<li> You can save IGTV videos to the Android device storage</li>
 
-<li> You can make a chat favourite</li>
+<li> Add a browser inside the application</li>
 
-<li> Now can Add Voice Note in Story</li>
+<li> You can watch and follow the list of followers</li>
 
-<li> Now can Add Tag in Story</li>
+<li> Add app lock by fingerprint</li>
 
-<li> Fixed Bubble Color when Reply to Story</li>
+<li> The ability to show (follows you) a mark you can easily see who is following you</li>
 
-<li> Fixed Themes after Viewing Post in Search</li>
+<li> Translate comments and posts into English, Russian, Ukrainian and Turkish</li>
 
-<li> Fixed Crash when Click on Download/Preview</li>
+<li> Add musical stickers to stories</li>
 
-<li> Many More Fixes</li>
+<li> Fix Facebook login problems and show notice that you can't log in</li>
 
-","url":"https://www.3ssem.com/2019/04/aginstagram-1.20.html"
+<li> Other fixes</li>
+
+","url":"https://www.3ssem.com/2020/01/aginsta-plus-v130.html"
 
 }
