@@ -1,51 +1,51 @@
-{"version_code":10,"content":"
+{"version_code":1000,"content":"
 
-<p>تحديث 1.30 (Update)</p>
+<p>تحديث 1.40 (Update)</p>
 
-<li>إخفاء قصص المشاهدة أو إخفاء حالة الكتابة في DM)</li>
+<li>امكانية تحميل الصور والفيديوهات من داخل التطبيقات وبدون أي حاجة للاستعانة بتطبيقات خارجية </li>
 
-<li>يمكنك حفظ مقاطع فيديو IGTV على وحدة تخزين جهاز Android</li>
+<li>تحميل الستوري على هاتفك بكل سهولة من داخل التطبيق بمجرد ضغطة زر</li>
 
-<li>اضافة متصفح داخل التطبيق</li>
+<li>القدرة على تكبير الصور وذلك عند النقر مطولاً على الصورة ستستطيع تكبيرها وتصغيرها كيفما تشاء</li>
 
-<li>يمكنك مشاهدة قائمة المتابعين ومراقبتهم</li>
+<li>امكانية فتح الصور المصغرة, حيث ان هذه الخاصية غير ممكنة في النسخة الاصلية من التطبيق</li>
 
-<li>اضافة قفل التطبيق عن طريق البصمة</li>
+<li>يسمح لك انستقرام بلس نسخ البايو BIO وذلك بمجرد النقر مطولاً على البايو لأي بروفايل سيظهر لك</li>
 
-<li>القدرة على إظهار (يتبعك) علامة يمكنك بسهولة معرفة من الذي يتبعك</li>
+<li>يدعم الغة العربية, حيث ستجد أن كافة القوائم والعبارات في التطبيق الذهبي هي بلغة عربية صحيحة</li>
 
-<li>ترجمة التعليقات والوظائف إلى الإنجليزية والروسية والأوكرانية والتركية</li>
+<li>خالي من الاعلانات المزعجة التي تغضب المستخدمين, فهو تطبيق غير ربحي اطلاقاً</li>
 
-<li>تمكين / تعطيل النقر المزدوج</li>
+<li>فتح صورة البروفايل لأي شخص</li>
 
-<li>إضافة ملصقات موسيقية إلى القصص</li>
+<li>معرفة من يتابعك على انستقرام</li>
 
-<li>إصلاح مشاكل تسجيل الدخول عبر الفيسبوك واظهار اشعار بانه لايمكنك تسجيل الدخول</li>
+<li>اخفاء جاري الكتابه واخفاء انك قرأت الرسالة</li>
 
 <li>إصلاحات أخرى</li>
 
-<li> New Base Updated to 121.0.0.29.119</li>
+<li> New Base Updated to 150.0.0.33.120</li>
 
-<li> Hide Watch Stories or Hide Writing Status (DM)</li>
+<li> The ability to download photos and videos from within the applications without any need to use external applications</li>
 
-<li> You can save IGTV videos to the Android device storage</li>
+<li> Download the story on your phone easily from within the application with just a click of a button</li>
 
-<li> Add a browser inside the application</li>
+<li> The ability to enlarge the pictures, so when you click and hold the image, you will be able to zoom in and out as you like</li>
 
-<li> You can watch and follow the list of followers</li>
+<li> The ability to open thumbnails, as this feature is not possible in the original version of the application</li>
 
-<li> Add app lock by fingerprint</li>
+<li> Instagram Plus allows you to copy the BIO by simply clicking and holding on the bio for any profile, it will appear.</li>
 
-<li> The ability to show (follows you) a mark you can easily see who is following you</li>
+<li> Supports the Arabic language, where you will find that all menus and phrases in the golden app are in correct Arabic</li>
 
-<li> Translate comments and posts into English, Russian, Ukrainian and Turkish</li>
+<li> Free from annoying ads that anger users, it is a non-profit application at all</li>
 
-<li> Add musical stickers to stories</li>
+<li> Open the profile picture for anyone</li>
 
-<li> Fix Facebook login problems and show notice that you can't log in</li>
+<li> Find out who follows you on Instagram</li>
 
 <li> Other fixes</li>
 
-","url":"https://www.3ssem.com/2020/01/aginsta-plus-v130.html"
+","url":"https://www.3ssem.com/2020/09/aginsta.html"
 
 }
