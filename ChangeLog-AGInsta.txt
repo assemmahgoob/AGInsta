@@ -1,48 +1,38 @@
-{"version_code":1000,"content":"
+{"version_code":2000,"content":"
 
-<p>تحديث 1.40 (Update)</p>
+<p>تحديث 1.50 (Update)</p>
 
-<li>امكانية تحميل الصور والفيديوهات من داخل التطبيقات وبدون أي حاجة للاستعانة بتطبيقات خارجية </li>
+<li>تكبير صورة الملف الشخصي ثابتة </li>
 
-<li>تحميل الستوري على هاتفك بكل سهولة من داخل التطبيق بمجرد ضغطة زر</li>
+<li>أداة تعقب مضافة للأشخاص الذين لا يتابعونك (لا أعرف كيف يعمل مع عدد كبير من المتابعين). يمكنك تمكينه في الإعدادات</li>
 
-<li>القدرة على تكبير الصور وذلك عند النقر مطولاً على الصورة ستستطيع تكبيرها وتصغيرها كيفما تشاء</li>
+<li>نشاط مضاف لمشاهدة المتابعين الذين لا يتابعونك (اضغط لفترة طويلة على أيقونة القلب). إذا لم يكن هناك كل ما يلي ، فانتقل إلى قائمة المتابعين في Instagram نفسه في البداية</li>
 
-<li>امكانية فتح الصور المصغرة, حيث ان هذه الخاصية غير ممكنة في النسخة الاصلية من التطبيق</li>
+<li>تغير برنامج التنزيل قليلاً ، تتكدس الإشعارات الآن</li>
 
-<li>يسمح لك انستقرام بلس نسخ البايو BIO وذلك بمجرد النقر مطولاً على البايو لأي بروفايل سيظهر لك</li>
+<li>إصلاح ترجمة جوجل</li>
 
-<li>يدعم الغة العربية, حيث ستجد أن كافة القوائم والعبارات في التطبيق الذهبي هي بلغة عربية صحيحة</li>
+<li>إصلاحات موضوع أسود آخر</li>
 
-<li>خالي من الاعلانات المزعجة التي تغضب المستخدمين, فهو تطبيق غير ربحي اطلاقاً</li>
-
-<li>فتح صورة البروفايل لأي شخص</li>
-
-<li>معرفة من يتابعك على انستقرام</li>
-
-<li>اخفاء جاري الكتابه واخفاء انك قرأت الرسالة</li>
+<li>تحديث الترجمات</li>
 
 <li>إصلاحات أخرى</li>
 
-<li> New Base Updated to 150.0.0.33.120</li>
+<li> New Base Updated to 165.1.0.29.119</li>
 
-<li> The ability to download photos and videos from within the applications without any need to use external applications</li>
+<li> Profile picture zoom fixed</li>
 
-<li> Download the story on your phone easily from within the application with just a click of a button</li>
+<li> Added tracker for people, who unfollows you(I don't know how it would be work with big amount of followers). You can enable it in settings</li>
 
-<li> The ability to enlarge the pictures, so when you click and hold the image, you will be able to zoom in and out as you like</li>
+<li> Added activity to watch followings, who doesn't follow you back(long tap on heart icon). If there's not all followings, then go to followings list in Instagram itself at first</li>
 
-<li> The ability to open thumbnails, as this feature is not possible in the original version of the application</li>
+<li> Downloader changed a little bit, notifications are stacking now</li>
 
-<li> Instagram Plus allows you to copy the BIO by simply clicking and holding on the bio for any profile, it will appear.</li>
+<li> Fixed Google translate</li>
 
-<li> Supports the Arabic language, where you will find that all menus and phrases in the golden app are in correct Arabic</li>
+<li> Another black theme fixes</li>
 
-<li> Free from annoying ads that anger users, it is a non-profit application at all</li>
-
-<li> Open the profile picture for anyone</li>
-
-<li> Find out who follows you on Instagram</li>
+<li> Translations updated</li>
 
 <li> Other fixes</li>
 
