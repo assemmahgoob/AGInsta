@@ -1,7 +1,9 @@
-Version 60. Changelog:
+Version 70. Changelog:
 
->Fixed All Previous Bugs
->[Base] New Base update 173.0.0.39.120
->[Added] Action Bar and NavBar Setting Again
->[Fixed] the problem of not opening messages on some devices
+>[Base] New Base update 184.0.0.30.117
+>[Fixed ] Antivirus Issue
+>[Fixed] Hanging Issue
+>[Added] Chat lock
+>[Remove] Action Bar and NavBar Setting Again
+>[Added] Remix Feature
 >Fixed many more issues.
